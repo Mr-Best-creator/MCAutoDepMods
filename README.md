@@ -23,8 +23,8 @@ GUIが使用できる環境
 **1.0.0**   
 最初のリリース、不具合や未開発機能があります   
 不安定   
-> モチベーションによって開発スピードが変わるので応援していただけるとより早くバージョンアップします
-詳しい変更内容は[UPDATE-LOG.md]をご覧くださいっ！
+> モチベーションによって開発スピードが変わるので応援していただけるとより早くバージョンアップします   
+詳しい変更内容は[UPDATE-LOG.md](https://github.com/Mr-Best-creator/MCAutoDepMods/blob/main/UPDATE-LOG.md)をご覧くださいっ！
 ## ライセンス 1.0.0 ~
 本作品は Free and Traceable License (FTL) v1.3 のもとで公開されています。
 詳しくは「LICENSE.txt」および「FTL-CHANGELOG.txt」をご確認ください。
