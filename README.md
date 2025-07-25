@@ -4,6 +4,7 @@ Minecraft　1.21.1 Mods loader "fabric" & "neoforge"のmodsディレクトリを
 一応問題なく動くことは確認していますが、見つかっていないバグでプログラムが停止する可能性があります   
 (jarファイルの読み取りしか行っていないためエラーで停止しても被害が出ることはまずありえません)   
 [**アップデートログはこちら**](https://github.com/Mr-Best-creator/MCAutoDepMods/blob/main/UPDATE-LOG.md)
+[wikiはこちら | Wiki is here](https://github.com/Mr-Best-creator/MCAutoDepMods/wiki)
 # English support added since version 1.0.5!
 ## できること
 GUI操作でmodsファイルを選択し不足している依存関係を表示できます
